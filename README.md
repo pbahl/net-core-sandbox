@@ -1,1 +1,1 @@
-Using Visual Studio Code for ASP.NET Core Projects
+Using Visual Studio Code for ASP.NET Core Projects.
